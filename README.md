@@ -1,3 +1,5 @@
+> **⚠ This repo has been transferred to [Ceramic](https://github.com/ceramicstudio/safe-did-resolver). Please go there for latest updates and log issues there.**
+
 # Gnosis Safe DID Resolver
 
 > Safe is a DID method that uses the Ceramic network to resolve DID documents for Gnosis Safe
