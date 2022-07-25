@@ -113,7 +113,7 @@ const accountId = didToCaip(didUrl) // eip155:1/erc721:0x12345678912345678912345
 
 ## License
 
-Apache-2.0 OR MIT
+MIT
 
 ## Contact
 
