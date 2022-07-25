@@ -2,7 +2,7 @@
 
 # Gnosis Safe DID Resolver
 
-> Safe is a DID method that uses the Ceramic network to resolve DID documents for Gnosis Safe
+> Gnosis Safe DID Resolver uses the Ceramic network to resolve DID documents for Gnosis Safe
 > See [CIP-101](https://github.com/ceramicnetwork/CIP/blob/main/CIPs/CIP-101/CIP-101.md)
 
 ## Getting started
@@ -114,3 +114,7 @@ const accountId = didToCaip(didUrl) // eip155:1/erc721:0x12345678912345678912345
 ## License
 
 Apache-2.0 OR MIT
+
+## Contact
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40FlyingNobita)](https://twitter.com/FlyingNobita)
